@@ -1,0 +1,19 @@
+* {
+    font-family: Arial;
+}
+table {
+    margin:auto;
+}
+h1 {
+    text-transform: uppercase;
+}
+img {
+    width: 150px;
+    height: 150px;
+    margin-left: 33%;
+    border: 1;
+    border-color:#808080;
+}
+.info {
+    text-indent: 35px;
+}
