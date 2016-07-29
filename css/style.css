@@ -1,15 +1,17 @@
 * {
     font-family: Arial;
 }
-table {
-    margin:auto;
+.box {
+    margin: auto;
+    width: 600px;
+    align-content: center;
 }
 h1 {
     text-transform: uppercase;
 }
 img {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
     margin-left: 33%;
     border: 1;
     border-color:#808080;
