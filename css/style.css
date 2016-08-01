@@ -1,21 +1,25 @@
 * {
     font-family: Arial;
 }
+
 .box {
-    margin: auto;
-    width: 600px;
     align-content: center;
-}
+    width: 600px;
+    margin: auto;
+  }
+
 h1 {
     text-transform: uppercase;
 }
+
 img {
     width: 200px;
     height: 200px;
     margin-left: 33%;
     border: 1;
-    border-color:#808080;
+    border-color: #808080;
 }
+
 .info {
     text-indent: 35px;
 }
